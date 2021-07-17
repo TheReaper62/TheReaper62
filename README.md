@@ -3,6 +3,12 @@
 👀 I’m interested and specialise in Backend Development.
 For Example Form Data Handling, Comprehension of Open Ended Answers, etc.
 
+## Bot Development
+Need to Set up a **Discord** Bot for your server with custom functions? Need to integrate Google Spreadsheets?
+I can help you do up a bot **Free of Charge** with functions as you request. Google Spreadsheets can be enabled to be a database 
+if you plan on storing/display user data.
+
+# About me
 🌱 My native language is **Python** and have written my own set of **Javascript** Code.
 
 💞️ I’m looking to collaborate on Bot Development *(E.g. Discord Bot)* or any Google Form Data that needs validation/computation/modification.
