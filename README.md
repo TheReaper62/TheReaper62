@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @TheReaper62, *you can call me Joel*
+## 👋 Hi, I’m @TheReaper62,
 
 👀 I’m interested and specialise in Backend Development.
 For Example Form Data Handling, Comprehension of Open Ended Answers, etc.
@@ -19,21 +19,20 @@ if you plan on storing/display user data.
 
 ## More About => Me
 I'm `16` this year and currently taking **'O' Levels** in **Singapore**.
-Besides having **Compting** as my Subject Combination, I have been coding for **2 years** now!!!
+Besides having **Compting** as my Subject Combination, I have been coding for more than **2 years** now!!!
 
 ## My Projects
 #### Embeded (2020)
  - Built with various tools, this Discord bot was there to help replace unnesseccary searching up time.
  - It has built in webscrapers that help you get information outside of Discord without ever needing to leave Discord yourself.
  - Project's Work has been **Discountinued** since 2021 Q1
- - Invite Bot [Here](https://discord.com/api/oauth2/authorize?client_id=744096431979102268&permissions=2482503024&scope=bot)
+ - **Deactivated** Invite Bot [Here](https://discord.com/api/oauth2/authorize?client_id=744096431979102268&permissions=2482503024&scope=bot)
  
  #### Define (2020)
   - This Discord Bot will replace the future of Online Quizzes
   - With its ability to pick out keywords, it is able to evaluate the correctness of an open ended answer
   - I peronsally used this Bot to help me Study for content heavy Subjects
-  - Define is now [live](https://discord.com/api/oauth2/authorize?client_id=809441761730494534&permissions=2148005952&scope=bot) and improvements on the Bot continues (E.g. Multiplayer Mode)
-  - This bot is also part of my School CCA's (Co-Ciricular Activty) plan to help Students remember content taught.
+  - Define is now not [live](https://discord.com/api/oauth2/authorize?client_id=809441761730494534&permissions=2148005952&scope=bot) and improvements on the Bot continues (E.g. Multiplayer Mode)
   
  #### Moderation (2021)
   - This Discord bot IS the future of Moderation
