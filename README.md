@@ -5,11 +5,10 @@ For Example Form Data Handling, Comprehension of Open Ended Answers, etc.
 
 ## Bot Development
 Need to Set up a **Discord** Bot for your server with custom functions? Need to integrate Google Spreadsheets?
-I can help you do up a bot **Free of Charge** with functions as you request. Google Spreadsheets can be enabled to be a database 
-if you plan on storing/display user data.
+I can help you do up a bot with functions as you request. Google Spreadsheets can be enabled to be a database or a more scalable production level database such as Firebase or Supabase, if you plan on storing/display user data.
 
 # About me
-🌱 My native language is **Python** and have written my own set of **Javascript** Code.
+🌱 My native language is **Python**.
 
 💞️ I’m looking to collaborate on Bot Development *(E.g. Discord Bot)* or any Google Form Data that needs validation/computation/modification.
 
@@ -18,8 +17,9 @@ if you plan on storing/display user data.
  - Instagram: @fishball_nooodles
 
 ## More About => Me
-I'm `16` this year and currently taking **'O' Levels** in **Singapore**.
-Besides having **Compting** as my Subject Combination, I have been coding for more than **2 years** now!!!
+17M
+Completed **Computing GCE O Level (7155)** with Distinction.
+Taking **General Cambridge Examination Advanced Level** in 2023
 
 ## My Projects
 #### Embeded (2020)
@@ -31,14 +31,20 @@ Besides having **Compting** as my Subject Combination, I have been coding for mo
  #### Define (2020)
   - This Discord Bot will replace the future of Online Quizzes
   - With its ability to pick out keywords, it is able to evaluate the correctness of an open ended answer
-  - I peronsally used this Bot to help me Study for content heavy Subjects
-  - Define is now not [live](https://discord.com/api/oauth2/authorize?client_id=809441761730494534&permissions=2148005952&scope=bot) and improvements on the Bot continues (E.g. Multiplayer Mode)
+  - I peronsally used this bot to help me store content for content heavy subjects
+  - Define has been discontinued
   
  #### Moderation (2021)
   - This Discord bot IS the future of Moderation
   - Moderation 3 was built with the Goal of out performing its predecessors(Moderation 1 & 2)
   - RegEx enabled AutoMod System and Advanced Link Trackers/Checkers
-  - Moderation 3 is still under Beta and will release its First Official Build by *The end 2021 Q4
+  - Moderation 3 is still under Beta
+  - Discontinued
+
+#### Subapy (2022)
+A Wrapper for the Supbase API, supports CRUD functions and cna be used sync/asynchronously.
+
+
 <!---
 TheReaper62/TheReaper62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
