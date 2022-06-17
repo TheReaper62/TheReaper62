@@ -23,7 +23,7 @@ Taking **General Cambridge Examination Advanced Level** in 2023
 
 ## My Projects
 #### Embeded (2020)
- - Built with various tools, this Discord bot was there to help replace unnesseccary searching up time.
+ - Built with various tools, this Discord bot was there to help replace unnecessary searching up time.
  - It has built in webscrapers that help you get information outside of Discord without ever needing to leave Discord yourself.
  - Project's Work has been **Discountinued** since 2021 Q1
  - **Deactivated** Invite Bot [Here](https://discord.com/api/oauth2/authorize?client_id=744096431979102268&permissions=2482503024&scope=bot)
