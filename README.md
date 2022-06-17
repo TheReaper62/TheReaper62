@@ -22,28 +22,15 @@ Completed **Computing GCE O Level (7155)** with Distinction.
 Taking **General Cambridge Examination Advanced Level** in 2023
 
 ## My Projects
-#### Embeded (2020)
- - Built with various tools, this Discord bot was there to help replace unnecessary searching up time.
- - It has built in webscrapers that help you get information outside of Discord without ever needing to leave Discord yourself.
- - Project's Work has been **Discountinued** since 2021 Q1
- - **Deactivated** Invite Bot [Here](https://discord.com/api/oauth2/authorize?client_id=744096431979102268&permissions=2482503024&scope=bot)
- 
- #### Define (2020)
-  - This Discord Bot will replace the future of Online Quizzes
-  - With its ability to pick out keywords, it is able to evaluate the correctness of an open ended answer
-  - I peronsally used this bot to help me store content for content heavy subjects
-  - Define has been discontinued
-  
- #### Moderation (2021)
-  - This Discord bot IS the future of Moderation
-  - Moderation 3 was built with the Goal of out performing its predecessors(Moderation 1 & 2)
-  - RegEx enabled AutoMod System and Advanced Link Trackers/Checkers
-  - Moderation 3 is still under Beta
-  - Discontinued
+#### GSPreadPlus(2021)
+Turn your Google Sheet into a queryable database straight from python
 
 #### Subapy (2022)
 A Wrapper for the Supbase API, supports CRUD functions and cna be used sync/asynchronously.
 
+#### ltadatamall (2022)
+A Wrapper for the LTA Datamall API
+Get Bus Timings, Cab Information and Traffic Related Incidents
 
 <!---
 TheReaper62/TheReaper62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
