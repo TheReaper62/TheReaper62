@@ -1,27 +1,29 @@
 ## 👋 Hi, I’m Joel,
 
 👀 I’m interested and specialise in Backend Development.
-For Example Form Data Handling, Comprehension of Open Ended Answers, etc.
-
-## Bot Development
-Need to Set up a **Discord** Bot for your server with custom functions? Need to integrate Google Spreadsheets?
-Contact me to start building!!!
+My Expertise: Backend Systems for Administration, Discord Bot, Database Management
 
 # About me
 🌱 My native language is **Python**.
 
-💞️ I’m looking to collaborate on Bot Development *(E.g. Discord Bot)* or any Google Form Data that needs validation/computation/modification.
+💞️ I’m open to collaborate on Bot Development *(E.g. Discord Bot)* or any Google Form Data that needs computation
 
 📫 You can contact me via these platforms:
- - Discord: Fishball_Noodles#7209
+ - Discord: fishball_noodles (used to be : Fishball_Noodles#7209)
  - Instagram: @fishball_nooodles
 
 ## More About => Me
-17M
+18M
 Completed **Computing GCE O Level (7155)** with Distinction.
-Taking **General Cambridge Examination Advanced Level** in 2023
 
 ## My Projects
+#### TMShortcuts(2022)
+TMSeatfinder: For the school's Internal Examinations and National Examinations, this system allows students to view individualised examination details.
+A sibling project, TMOGFinder, provides new students with the ease of checking thier Orientation Groupings on the first day/week of school.
+
+#### Ticketing System (2022)
+Automatic generation of digital invitation cards with registration functionalities. 
+
 #### GSPreadPlus(2021)
 Turn your Google Sheet into a queryable database straight using python
 
