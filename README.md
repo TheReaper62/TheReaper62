@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Joel,
 
 👀 I’m interested and specialise in Backend Development!!!
+
 My Expertise: Backend Administration System, Discord/Telegram Bot, Database Management
+
 I am also write python libraries that are publicy available and also used in my own projects
 
 # About me
