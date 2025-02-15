@@ -17,9 +17,8 @@ I am also write python libraries that are publicy available and also used in my 
 
 ## My Projects
 #### TMShortcuts(2022 - Present)
-TMSeatfinder: For the school's Internal Examinations and National Examinations, this system allows students to view individualised examination details.
-A sibling project, TMOGFinder, provides new students with the ease of checking thier Orientation Groupings on the first day/week of school.
-Main Mainteners: Joel Khor(22S209), Tharakeshavan Parthasarathy(23S101)
+From a humble beginning as a single-student initiative during the mid-year examinations of 2022, TMShortcuts has grown into a vital resource, simplifying access to essential information for students. What started as a small effort to assist peers has expanded beyond merely internal exams to include orientation, administrative matters, and seasonal elective programs. Today, TMShortcuts continues its legacy with new members from different cohorts, united by a shared mission: to build a by-students, for-students service that empowers future batches through accessible, community-driven solutions.
+Batch Representative Maintainer: Joel Khor(22S209), Tharakeshavan Parthasarathy(23S101), 
 
 #### Ticketing System (2022)
 Automatic generation of digital invitation cards with registration functionalities. 
