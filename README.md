@@ -18,7 +18,7 @@ I am also write python libraries that are publicy available and also used in my 
 ## My Projects
 #### TMShortcuts(2022 - Present)
 From a humble beginning as a single-student initiative during the mid-year examinations of 2022, TMShortcuts has grown into a vital resource, simplifying access to essential information for students. What started as a small effort to assist peers has expanded beyond merely internal exams to include orientation, administrative matters, and seasonal elective programs. Today, TMShortcuts continues its legacy with new members from different cohorts, united by a shared mission: to build a by-students, for-students service that empowers future batches through accessible, community-driven solutions.
-Batch Representative Maintainer: Joel Khor(22S209), Tharakeshavan Parthasarathy(23S101), 
+Batch Representative Maintainer: Joel Khor(22S209), Tharakeshavan Parthasarathy(23S101), Joelle Goh(24S303)
 
 #### Ticketing System (2022)
 Automatic generation of digital invitation cards with registration functionalities. 
