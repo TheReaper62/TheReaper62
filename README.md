@@ -1,8 +1,11 @@
 # 💫 About Me:
 
 🔧 **Current Project:** Architecting a private personal assistant for my phone.
+
 ☁️ **Focus:** Mastering AWS to build more resilient systems.
+
 🤝 **Collab:** Need a backend for your front-end masterpiece? Let's connect!
+
 💡 **Fun Fact:** I've been programming for 10 years now!!!
 
 ---
