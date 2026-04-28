@@ -20,8 +20,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=TheReaper62&theme=dark&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
-![](https://streak-stats.demolab.com/?user=TheReaper62&theme=dark&hide_border=false)`<br/>`
+![](https://github-readme-stats.shion.dev/api?username=TheReaper62&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=TheReaper62&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheReaper62&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
